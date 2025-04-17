@@ -54,8 +54,8 @@
 
 
 
-### Name: NALLAMALLI VENKATA CHETAN STAWIK
-### Register Number: 212224240100
+### Name: LEELA KRISHNA A.V.S
+### Register Number: 212224240013
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
